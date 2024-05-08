@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+}
+
+a{
+    text-decoration: black;
+    color: black;
+}
+
+body{
+    background-color: brown;
+}
+
+main, footer{
+    text-align: center;
+}
+
+.img2{
+    width: 1000px;
+    height: 1000px;
+    text-align: center;
+}
+
+.img{
+    width: 800px;
+    height: 800px;
+}
